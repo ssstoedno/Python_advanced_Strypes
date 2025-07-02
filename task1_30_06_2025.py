@@ -1,4 +1,4 @@
-#Създайте клас DataFrame, който да се държи по следния начин: (Задача от занятие 1 - 30.06.2025)
+#Create a class DataFrame that behaves in the following way: (Task 1 from lesson 1 - 30.06.2025)
 #df = DataFrame({"name": ["Гошо", "Пешо"], "age": [30, 16]})
 #print(df.shape)       # (2, 2)
 #print(df["name"])         # ["Гошо", "Пешо"]
